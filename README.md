@@ -25,7 +25,11 @@
 </div>
 
 
-
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nh5xhx6I76bfdsr566qixmqyt4&cover_image=true&theme=novathesage&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  </a>
+</div>
 
 ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 
