@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/mirarand?label=Followers&style=for-the-badge&color=007ACC&logo=github" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=mirarandE&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mirarand&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 
