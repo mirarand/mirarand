@@ -39,5 +39,5 @@
 
 <!-- ======= Contribution Snake Animation ======= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/mirarand/mirarand/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
