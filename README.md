@@ -17,10 +17,12 @@
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
+
 
 ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 
-![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirarand&theme=dark&background=1A1A1A&hide_border=true&stroke=007ACC&ring=ffdd54&fire=f05032&currStreakLabel=ffdd54" alt="GitHub Streak Banner" />
