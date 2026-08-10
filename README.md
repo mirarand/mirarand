@@ -25,3 +25,56 @@
 ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 
 ![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
+
+
+<!-- ======= À PROPOS DE MOI / ABOUT ME Section ======= -->
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mirarand&color=007ACC&style=flat-square&label=PROFILE+VIEWS" alt="Miranto's Profile Views" />
+</div>
+
+<br>
+
+## 👤 About Me
+
+<div style="display: flex; align-items: start; gap: 20px;">
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=false&vCenter=true&width=435&lines=Software+Engineering+Student+%40+42;Low-Level+%26+System+Programming;Linux+%26+C+%2F+Python+Enthusiast" alt="Typing SVG" />
+    <br>
+    
+👋 **Hi there! I'm Miranto Amintsoa.**
+
+* 🎓 **Software Engineering Student at École 42**, focused on low-level development and system programming.
+* 🐧 **Linux Enthusiast** — big fan of custom configurations, shell customization, and performance optimization.
+* 🐍 Primarily building projects in **C** and **Python**.
+* 🛠️ Constantly exploring new technologies, solving complex problems, and tweaking my dev setup.
+
+  </div>
+</div>
+
+<br>
+
+<!-- ======= Mes Statistiques GitHub / My Github Stats ======= -->
+
+<div align="center">
+  <a href="https://github.com/mirarand">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirarand&show_icons=true&include_all_commits=true&count_private=true&title_color=007ACC&text_color=FFFFFF&icon_color=ffdd54&bg_color=1A1A1A&hide_border=true&locale=en" alt="Miranto's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mirarand">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarand&layout=compact&title_color=007ACC&text_color=FFFFFF&bg_color=1A1A1A&hide_border=true&langs_count=5" alt="Miranto's Top Languages" />
+  </a>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirarand&theme=dark&background=1A1A1A&hide_border=true&stroke=007ACC&ring=ffdd54&fire=f05032&currStreakLabel=ffdd54" alt="Miranto's GitHub Streak" />
+</div>
+
+<br>
+
+<!-- ======= Fin de la Section / End of Section ======= -->
+<hr>
