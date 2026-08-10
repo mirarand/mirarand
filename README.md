@@ -29,9 +29,7 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirarand&theme=dark&background=1A1A1A&hide_border=true&stroke=007ACC&ring=ffdd54&fire=f05032&currStreakLabel=ffdd54" alt="GitHub Streak Banner" />
-</div>
+
 
 
 <p align="center">
