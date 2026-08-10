@@ -1,5 +1,13 @@
 ![Normal Banner](https://ishan-rest.vercel.app/svg/banner/normal/Miranto_Amintsoa)
 
+## 👤 About Me
+
+👋 Hi there! I'm **Miranto Amintsoa**.
+
+* 🎓 **Software Engineering Student at École 42**, passionate about low-level development and system programming.
+* 🐧 **Linux Enthusiast** — big fan of custom configurations, shell customization, and performance optimization.
+* 🐍 Primarily building projects in **C** and **Python**.
+* 🛠️ Constantly exploring new technologies, solving complex problems, and tweaking my dev setup.
 
 ## 🚀 Tech I Use
 
@@ -9,14 +17,7 @@
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 👤 About Me
 
-👋 Hi there! I'm **Miranto Amintsoa**.
-
-* 🎓 **Software Engineering Student at École 42**, passionate about low-level development and system programming.
-* 🐧 **Linux Enthusiast** — big fan of custom configurations, shell customization, and performance optimization.
-* 🐍 Primarily building projects in **C** and **Python**.
-* 🛠️ Constantly exploring new technologies, solving complex problems, and tweaking my dev setup.
 
 ![Views](https://dynamic-repo-badges.vercel.app/svg/count/2/Repository%20Views/your-repo)
 
