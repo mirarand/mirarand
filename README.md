@@ -36,26 +36,12 @@
 
 <br>
 
-## 👤 About Me
-
-<div style="display: flex; align-items: start; gap: 20px;">
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=false&vCenter=true&width=435&lines=Software+Engineering+Student+%40+42;Low-Level+%26+System+Programming;Linux+%26+C+%2F+Python+Enthusiast" alt="Typing SVG" />
-    <br>
-    
-👋 **Hi there! I'm Miranto Amintsoa.**
-
-* 🎓 **Software Engineering Student at École 42**, focused on low-level development and system programming.
-* 🐧 **Linux Enthusiast** — big fan of custom configurations, shell customization, and performance optimization.
-* 🐍 Primarily building projects in **C** and **Python**.
-* 🛠️ Constantly exploring new technologies, solving complex problems, and tweaking my dev setup.
-
   </div>
 </div>
 
 <br>
 
-<!-- ======= Mes Statistiques GitHub / My Github Stats ======= -->
+<!-- ======= My Github Stats ======= -->
 
 <div align="center">
   <a href="https://github.com/mirarand">
