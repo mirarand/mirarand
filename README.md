@@ -49,7 +49,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mirarand">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirarand&layout=compact&title_color=007ACC&text_color=FFFFFF&bg_color=1A1A1A&hide_border=true&langs_count=5" alt="Miranto's Top Languages" />
   </a>
 </div>
 
@@ -57,7 +56,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirarand&theme=dark&background=1A1A1A&hide_border=true&stroke=007ACC&ring=ffdd54&fire=f05032&currStreakLabel=ffdd54" alt="Miranto's GitHub Streak" />
+
 </div>
 
 <br>
