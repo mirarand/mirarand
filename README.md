@@ -26,4 +26,6 @@
 
 ![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
 
-* 🔭 **Current Status:** [ <img src="https://img.shields.io/badge/Busy--Coding-red?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Coding badge"> ] <!-- Change color/text as needed -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirarand&theme=dark&background=1A1A1A&hide_border=true&stroke=007ACC&ring=ffdd54&fire=f05032&currStreakLabel=ffdd54" alt="GitHub Streak Banner" />
+</div>
