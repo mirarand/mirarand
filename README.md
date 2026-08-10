@@ -7,5 +7,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-
-![Views](https://yourdomain.com/svg/count/6/Repository%20Views/mirarand)
+![Views](https://yourdomain.com/svg/count/6/Repository%20Views/your-repo)
