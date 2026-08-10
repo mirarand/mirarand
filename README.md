@@ -18,6 +18,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
+
 ![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
 
 <div align="center">
