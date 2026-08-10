@@ -6,4 +6,3 @@
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Views](https://yourdomain.com/svg/count/6/Repository%20Views/your-repo)
