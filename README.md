@@ -30,6 +30,6 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=007ACC&logo=github" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mirarand?label=Followers&style=for-the-badge&color=007ACC&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=mirarandE&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
