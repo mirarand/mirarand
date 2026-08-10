@@ -1,4 +1,4 @@
-![Normal Banner](https://ishan-rest.vercel.app/svg/banner/normal/your-username)
+![Normal Banner](https://ishan-rest.vercel.app/svg/banner/normal/Miranto_Amintsoa)
 
 
 ## 🚀 Tech I Use
