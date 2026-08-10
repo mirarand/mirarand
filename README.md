@@ -18,7 +18,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
-![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
+
+<!-- ======= Contribution Snake Animation ======= -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mirarand/mirarand/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+
+
 
 ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 
@@ -35,9 +42,5 @@
 </p>
 
 
+![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
 
-
-<!-- ======= Contribution Snake Animation ======= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mirarand/mirarand/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
