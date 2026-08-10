@@ -33,3 +33,11 @@
   <img src="https://img.shields.io/github/followers/mirarand?label=Followers&style=for-the-badge&color=007ACC&logo=github" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=mirarandE&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
+
+
+
+<!-- ======= Contribution Snake Animation ======= -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
