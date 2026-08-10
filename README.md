@@ -25,3 +25,5 @@
 ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 
 ![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
+
+* 🔭 **Current Status:** [ <img src="https://img.shields.io/badge/Busy--Coding-red?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Coding badge"> ] <!-- Change color/text as needed -->
