@@ -28,22 +28,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirarand&theme=dark&background=1A1A1A&hide_border=true&stroke=007ACC&ring=ffdd54&fire=f05032&currStreakLabel=ffdd54" alt="GitHub Streak Banner" />
 </div>
 
+<!-- ======= Safe & Reliable Stats ======= -->
 
-<!-- ======= 1. GitHub Overview Stats ======= -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirarand&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=ffdd54" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=mirarand&color=007ACC&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- Total Commits -->
+  <img src="https://img.shields.io/github/commits-difference/mirarand?color=007ACC&style=for-the-badge&label=COMMITS" alt="Commits" />
 
-<br>
-
-<!-- ======= 2. GitHub Trophies ======= -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirarand&theme=onedark&column=6&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<!-- ======= 3. Interactive Activity Snake (Eats your contributions!) ======= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mirarand/mirarand/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/mirarand?color=ffdd54&style=for-the-badge&labelColor=1A1A1A" alt="Followers" />
+</p>
