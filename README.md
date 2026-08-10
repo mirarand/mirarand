@@ -28,15 +28,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirarand&theme=dark&background=1A1A1A&hide_border=true&stroke=007ACC&ring=ffdd54&fire=f05032&currStreakLabel=ffdd54" alt="GitHub Streak Banner" />
 </div>
 
-<!-- ======= Safe & Reliable Stats ======= -->
 
 <p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=mirarand&color=007ACC&style=for-the-badge" alt="Profile Views" />
-  
-  <!-- Total Commits -->
-  <img src="https://img.shields.io/github/commits-difference/mirarand?color=007ACC&style=for-the-badge&label=COMMITS" alt="Commits" />
-
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/mirarand?color=ffdd54&style=for-the-badge&labelColor=1A1A1A" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=007ACC&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
