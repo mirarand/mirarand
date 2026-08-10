@@ -1,3 +1,6 @@
+![Normal Banner](https://ishan-rest.vercel.app/svg/banner/normal/your-username)
+
+
 ## 🚀 Tech I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
