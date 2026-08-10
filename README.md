@@ -1,5 +1,6 @@
 ![Normal Banner](https://ishan-rest.vercel.app/svg/banner/normal/Miranto_Amintsoa)
 
+![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
 ## 👤 About Me
 
 👋 Hi there! I'm **Miranto Amintsoa**.
@@ -17,7 +18,6 @@
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/mirarand)
 
 
 ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
