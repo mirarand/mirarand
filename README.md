@@ -19,8 +19,6 @@
 
 
 
-![Views](https://dynamic-repo-badges.vercel.app/svg/count/2/Repository%20Views/your-repo)
-
 
 ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
 
